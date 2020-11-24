@@ -2,7 +2,7 @@
 
 ## 项目介绍
 
-个人学习笔记，主要来源于B站上视频的学习，同时会记录平时一些学习和项目中遇到的问题，同步更新在 [蘑菇博客](http://www.moguit.cn)，如果对我的博客网站感兴趣的话，欢迎关注我的 [蘑菇博客源码](https://gitee.com/moxi159753/mogu_blog_v2)，如果笔记对您有帮助的话，欢迎star支持，谢谢~
+个人学习笔记，主要来源于B站上视频的学习，同时会记录平时一些学习和项目中遇到的问题，同步更新在 [iAfoot博客](http://www.iafoot.com)，如果对我的博客网站感兴趣的话，欢迎关注我的 [蘑菇博客源码](https://gitee.com/hanruixian/iafoot_blog.git)，如果笔记对您有帮助的话，欢迎star支持，谢谢~
 
 笔记主要涵盖：Java，JVM、JUC、Spring，SpringCloud，计算机网络，操作系统，数据结构，Vue等
 
@@ -10,20 +10,19 @@
 
 因个人能力有限，笔记中可能还有很多错误的地方，还请大家能够多多指出交流，也欢迎各位小伙伴能够提交pull request请求进行完善
 
-如果您要转载本仓库中的笔记到其它地方，欢迎添加笔记的仓库地址：[LearningNotes](https://gitee.com/moxi159753/LearningNotes)
+如果您要转载本仓库中的笔记到其它地方，欢迎添加笔记的仓库地址：[LearningNotes](https://gitee.com/hanruixian/iafoot_blog.git)
 
 ## 文档
 
 为了更方便小伙伴的复习和查询，把本仓库做成一个在线的文档
 
-- 在线文档：http://moxi159753.gitee.io/learningnotes
+- 在线文档：http://hanruixian.gitee.io/iafoot_blog_notes/#/README
 
 ## 仓库地址
 
-本仓库同步托管在Github和Gitee中
+本仓库同步托管在Gitee中
 
-- Gitee仓库：https://gitee.com/moxi159753/LearningNotes
-- Github仓库：https://github.com/moxi624/LearningNotes
+- Gitee仓库：https://gitee.com/hanruixian/iafoot_blog.git
 
 ## 个人博客搭建
 
@@ -170,7 +169,7 @@
 - [源码](./SpringCloud/SpringCloud2020/SpringCloud2020)
 
 ## SpringSecurity
-
+``
 > 来源Bilibili黑马程序员视频教程：[手把手教你精通新版SpringSecurity](https://www.bilibili.com/video/BV1EE411u7YV)
 
 - [初识SpringSecurity](./SpringSecurity/1_初识SpringSecurity/README.md)
