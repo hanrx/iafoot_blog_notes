@@ -1,8 +1,8 @@
-# 学习笔记
+# HanRX学习笔记
 
 ## 项目介绍
 
-个人学习笔记，主要来源于B站上视频的学习，同时会记录平时一些学习和项目中遇到的问题，同步更新在 [iAfoot博客](http://www.iafoot.com)，如果对我的博客网站感兴趣的话，欢迎关注我的 [蘑菇博客源码](https://gitee.com/hanruixian/iafoot_blog.git)，如果笔记对您有帮助的话，欢迎star支持，谢谢~
+个人学习笔记，主要来源于日常闲暇时间的学习，同时会记录平时一些工作和项目中遇到的问题，同步更新在 [iAfoot博客](http://www.iafoot.com)，如果对我的博客网站感兴趣的话，欢迎关注我的 [iAfoot博客源码](https://gitee.com/hanruixian/iafoot_blog.git)，如果笔记对您有帮助的话，欢迎star支持，谢谢~
 
 笔记主要涵盖：Java，JVM、JUC、Spring，SpringCloud，计算机网络，操作系统，数据结构，Vue等
 
@@ -26,7 +26,7 @@
 
 ## 个人博客搭建
 
-如果想搭建个人的博客系统，可以购买优惠服务器后，参考 [教程](http://www.moguit.cn/#/info?blogUid=8100dcb585fff77e3fa25eed50e3708e) 在服务器搭建 [蘑菇博客项目](https://gitee.com/moxi159753/mogu_blog_v2) 用于知识点的梳理
+待完善：如果想搭建个人的博客系统，可以购买优惠服务器后，参考 [教程](http://www.iafoot.com) 在服务器搭建 [iAfoot博客项目](https://gitee.com/hanruixian/iafoot_blog) 用于知识点的梳理
 
 > 【阿里云】双十一拼团 2核4G3M 664元/3年（强烈推荐） [点我进入](http://a.aliyun.com/f1.l0DRK)
 >
