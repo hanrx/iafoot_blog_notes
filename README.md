@@ -26,7 +26,7 @@
 
 ## 个人博客搭建
 
-待完善：如果想搭建个人的博客系统，可以购买优惠服务器后，参考 [教程](http://www.iafoot.com) 在服务器搭建 [iAfoot博客项目](https://gitee.com/hanruixian/iafoot_blog) 用于知识点的梳理
+待完善aaaa：如果想搭建个人的博客系统，可以购买优惠服务器后，参考 [教程](http://www.iafoot.com) 在服务器搭建 [iAfoot博客项目](https://gitee.com/hanruixian/iafoot_blog) 用于知识点的梳理
 
 > 【阿里云】双十一拼团 2核4G3M 664元/3年（强烈推荐） [点我进入](http://a.aliyun.com/f1.l0DRK)
 >
